@@ -2,6 +2,9 @@ body#background {
   background-color: #f5deb3;
 }
 a {
+font-weight: bold;
+}
+a {
   position: relative;
   display: inline-block;
   text-decoration: none;
